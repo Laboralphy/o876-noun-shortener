@@ -1,0 +1,19 @@
+{
+  "name": "@laboralphy/noun-shortener",
+  "version": "1.0.0",
+  "description": "This tool helps you to shorten all words inside a noun-group : example 'node packet manager' becomes 'nod. pack. man.'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laboralphy/o876-noun-shortener.git"
+  },
+  "author": "raphael.marandet@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laboralphy/o876-noun-shortener/issues"
+  },
+  "homepage": "https://github.com/laboralphy/o876-noun-shortener#readme"
+}
