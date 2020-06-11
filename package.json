@@ -1,6 +1,6 @@
 {
   "name": "@laboralphy/noun-shortener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This tool helps you to shorten all words inside a noun-group : example 'node packet manager' becomes 'nod. pack. man.'.",
   "main": "index.js",
   "scripts": {
